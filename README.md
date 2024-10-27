@@ -158,8 +158,7 @@ To run the program, save it to a file (e.g., `mediawiki_parser.go`), and then ru
 go run mediawiki_parser.go
 ```
 
-This code is designed to handle basic MediaWiki syntax parsing and output it in JSON format for easy processing and display in various applications. Let me know if you'd like additional features!
+This code is designed to handle basic MediaWiki syntax parsing and output it in JSON format for easy processing and display in various applications.
 
---- 
 
-This markdown file can be saved to a `.md` file for GitHub. Let me know if you’d like it packaged or any further help!
+
